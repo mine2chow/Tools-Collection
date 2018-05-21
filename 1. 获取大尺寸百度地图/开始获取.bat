@@ -1,4 +1,4 @@
 @echo off
 
-phantomjs.exe capture.js
+phantomjs capture.js
 

@@ -2,6 +2,8 @@
 
 利用PhontomJS写的一个小工具，通过调用百度的地图生成器，获取并导出大尺寸地图的图片
 
+> 需要将PhontomJS执行文件（phantomjs.exe）放置在该目录，或者添加路径到环境变量，[PhontomJS官网](http://phantomjs.org/)
+
 ## GPS坐标
 
 baidu.html (line 32): 当前为`121.468638,29.911319`，可修改
